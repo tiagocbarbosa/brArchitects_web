@@ -1,0 +1,171 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #000000;
+}
+
+/* .container {
+    padding-right: 32px;
+    padding-left: 32px;
+} */
+
+.h2, h2 {
+    font-size: 24px;
+    padding: 16px 0px;
+    margin-bottom: 18px;
+}
+
+.shadow-sm {
+    box-shadow: 0 .2rem .25rem rgba(0,0,0,.15) !important
+}
+
+/* Navbar CSS Begin */
+.navbar {
+    padding: .6rem 1rem;
+}
+
+.bg-light {
+    background-color: #FFFFFF !important;
+}
+
+.navbar-brand {
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: 4px;
+    font-size: 16px;
+}
+
+.nav-item:hover {
+    background-color: #CCCCCC;
+}
+
+.anchorTest { /* this is just a test */
+    display: block;
+    height: 50px; /*same height as header*/
+    margin-top: -50px; /*same height as header*/
+    visibility: hidden;
+}
+/* Navbar CSS End */
+
+/* h1 CSS Begin */
+#header {
+    margin-bottom: 45px;
+}
+/* h1 CSS End */
+
+/* Projects CSS Begin */
+.project-card {
+    border-radius: 0px;
+}
+
+.project-card-img, .card-img-bottom {
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.project-card-img, .card-img-top {
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
+
+.project-card-img-overlay {
+    padding: 0px;
+}
+
+.project-card-title {
+    background-color: #000000 !important;
+    padding: .6rem 0.9rem !important;
+    font-size: 1.0rem;
+}
+/* Projects CSS End */
+
+/* About CSS Begin */
+#about {
+    margin-bottom: 50px;
+}
+/* About CSS Begin */
+
+/* Employee CSS Begin */
+#employees {
+    margin-bottom: 70px;
+}
+
+.employee-card {
+    border: none;
+}
+
+.employee-card .card-body {
+    padding: 0px;
+}
+
+.employee-card img {
+    filter: grayscale(75%);;
+}
+
+.employee-card h5 {
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.employee-card h6 {
+    margin-top: 15px;
+    margin-bottom: 15px !important;
+}
+
+.employee-card p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.employee-btn {
+    border-radius: 0px;
+    color: #000000;
+    background-color: #F1F1F1;
+    border-color: #F1F1F1;
+}
+
+.employee-btn:hover {
+    color: #000;
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+/* Employee CSS End */
+
+/* Contact CSS Begin */
+#contact {
+    margin-bottom: 45px;
+}
+
+.contact-input {
+    border-radius: 0px;
+}
+
+.contact-btn {
+    background-color: #000;
+    border-color: #000;
+    border-radius: 0px;
+}
+
+.contact-btn:hover {
+    color: #000;
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+/* Contact CSS End */
+
+/*Footer CSS Begin */
+footer {
+    color: #FFF;
+    background-color: #000000;
+    padding: 31px 0px;
+}
+
+footer p {
+    margin: 0px;
+}
+
+footer a {
+    color: #FFF;
+    text-decoration: underline;
+}
+/*Footer CSS End */
