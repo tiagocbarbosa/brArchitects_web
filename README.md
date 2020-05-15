@@ -7,7 +7,7 @@ This BR Architects web project using Bootstrap technology. This web page was bas
 BR Architects is my personal project created to apply my Bootstrap knowledge.
 
 ### Tecnologies envolved
-HTML 5, CSS 3, Bootstrap 4 and JQuery.
+HTML 5, CSS 3, Bootstrap 4 and Javascript.
 
 ### Website BR Architects
 URL: https://tiagocbarbosa.github.io/brArchitects_web/html/index.html
