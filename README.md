@@ -6,7 +6,7 @@ This is BR Architects web project using Bootstrap technology. This web page was 
 BR Architects is my personal project created to apply my Bootstrap knowledge.
 
 ### Tecnologies envolved
-HTML 5, CSS 3, Bootstrap 4, JQuery and Javascript.
+`bootstrap4` `jquery` `javascript`
 
 ### Website BR Architects
 URL: https://tiagocbarbosa.github.io/brArchitects_web/html/index.html
@@ -27,4 +27,9 @@ URL: https://tiagocbarbosa.github.io/brArchitects_web/html/index.html
 
 ------
 
-Made by Tiago Barbosa. <a href="https://www.linkedin.com/in/tiagocastrobarbosa">Get in touch!</a>
+Hope you enjoyed it! Get in touch:
+
+<a href="mailto:tiagocastrobarbosa@gmail.com" title="Email to tiagocastrobarbosa@gmail.com"><img src="https://img.shields.io/badge/%40-email-informational"></a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiagocastrobarbosa/)](https://www.linkedin.com/in/tiagocastrobarbosa/)
+
+Have a great day! 👋
