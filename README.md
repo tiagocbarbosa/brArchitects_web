@@ -5,7 +5,7 @@ This is BR Architects web project using Bootstrap technology. This web page was 
 ## About
 BR Architects is my personal project created to apply my Bootstrap knowledge.
 
-### Tecnologies envolved
+### Technologies involved
 `bootstrap4` `jquery` `javascript`
 
 ### Website BR Architects
